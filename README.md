@@ -7,8 +7,8 @@ An AIML based chatbot, which wholeheartedly listens to whatever you have to say 
 ## Authors
 * **Jyotirmoy Paul** - Initial work - [jyotirmoy-paul](https://github.com/jyotirmoy-paul)
 
-##Costume
-*** Reskin Aliendroid
+## Costume
+*** SK2
 - Modification Layout
 - Modification chat
 - Add Ads
