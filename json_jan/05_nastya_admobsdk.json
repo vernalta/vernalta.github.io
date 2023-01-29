@@ -2,10 +2,10 @@
   "Ads": [
     {
 
-      "select_main_ads":"xx",
+      "select_main_ads":"ADMOB",
       "select_backup_ads":"xxxxxx",
 
-      "main_ads_intertitial":"xx",
+      "main_ads_intertitial":"ca-app-pub-1695933872897231/3661537080",
       "main_ads_banner":"DefaultBanner",
 
 
@@ -17,14 +17,14 @@
       "initialize_sdk_backup_ads":"206648405",
 
       "interval_intertitial":1,
-      "admob_native": "xx",
-      "admob_native2": "xx",
-      "admob_open": "xx",
+      "admob_native": "ca-app-pub-1695933872897231/6427301226",
+      "admob_native2": "ca-app-pub-1695933872897231/7409210404",
+      "admob_open": "ca-app-pub-1695933872897231/6475402687",
 
-      "hpk1": "",
-      "hpk2": "",
-      "hpk3": "",
-      "hpk4": "",
+      "hpk1": "car",
+      "hpk2": "ev cars",
+      "hpk3": "trending",
+      "hpk4": "amazon",
       "hpk5": "",
 
       "status_app": "0879869867896879667567576",
