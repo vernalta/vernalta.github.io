@@ -17,9 +17,9 @@
       "initialize_sdk_backup_ads":"206648405",
 
       "interval_intertitial":1,
-      "admob_native": "ca-app-pub-1695933872897231/6427301226",
-      "admob_native2": "ca-app-pub-1695933872897231/7409210404",
-      "admob_open": "ca-app-pub-1695933872897231/6475402687",
+      "main_ads_native": "ca-app-pub-1695933872897231/6427301226",
+      "main_ads_native2": "ca-app-pub-1695933872897231/7409210404",
+      "open_ads_admob": "ca-app-pub-1695933872897231/6475402687",
 
       "hpk1": "car",
       "hpk2": "ev cars",

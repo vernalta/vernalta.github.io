@@ -17,9 +17,9 @@
       "initialize_sdk_backup_ads":"206648405",
 
       "interval_intertitial":1,
-      "admob_native": "ca-app-pub-1695933872897231/4591475379",
-      "admob_native2": "ca-app-pub-1695933872897231/2699809205",
-      "admob_open": "ca-app-pub-1695933872897231/8339148695",
+      "main_ads_native": "ca-app-pub-1695933872897231/4591475379",
+      "main_ads_native2": "ca-app-pub-1695933872897231/2699809205",
+      "open_ads_admob": "ca-app-pub-1695933872897231/8339148695",
 
       "hpk1": "",
       "hpk2": "",
