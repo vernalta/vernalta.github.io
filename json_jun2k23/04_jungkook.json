@@ -1,34 +1,23 @@
 {
-  "Ads": [
+   "Ads": [
     {
+      "select_backup_ads":"ADMOB",
+      "initialize_sdk_backup_ads":"xxxxx",
+      "url_keyboard":"https://tersepona.github.io/keyboard/keyboard.json",
 
-      "select_main_ads":"xx",
-      "select_backup_ads":"xxxxxx",
+      "main_ads_intertitial":"ca-app-pub-3949267698678900/2749525378",
+      "main_ads_natives":"ca-app-pub-3949267698678900/6865660513",
+      "open_ads_admob":"ca-app-pub-3949267698678900/8037526984",
+      "main_ads_rewards":"ca-app-pub-3949267698678900/6349874941",
 
-      "main_ads_intertitial":"xx",
-      "main_ads_banner":"DefaultBanner",
+      "backup_ads_natives":"xxxxx",
+      "backup_ads_banner":"xxxxx",
+      "backup_ads_intertitial":"xxxxx",
 
-
-      "backup_ads_intertitial":"DefaultInterstitial",
-      "backup_ads_banner":"DefaultBanner",
-      "backup_ads_native":"DefaultBanner",
-
-      "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"206648405",
-
-      "interval_intertitial":1,
-      "main_ads_native": "xx",
-      "main_ads_native2": "xx",
-      "open_ads_admob": "xx",
-
-      "hpk1": "",
-      "hpk2": "",
-      "hpk3": "",
-      "hpk4": "",
-      "hpk5": "",
-
-      "status_app": "0879869867896879667567576",
+      "status_app": "0",
       "link_redirect": "https://"
     }
   ]
+
+
 }
